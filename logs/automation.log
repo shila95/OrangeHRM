@@ -1,0 +1,18 @@
+2025-11-06 12:00:38 INFO  Utils:112 -
+			[TestNG] Running:
+  C:\JavaWorkspace\Project\ExtentRepMaster.xml
+
+2025-11-06 12:00:43 INFO  TC1_LogingTest:12 -
+			Starting of TC1_LoginTest...
+2025-11-06 12:00:45 INFO  TC1_LogingTest:20 -
+			Clicked on Login Button
+2025-11-06 12:00:45 INFO  TC1_LogingTest:22 -
+			Finishing of TC1_LoginTest...
+2025-11-06 12:00:49 INFO  TC2_PMITest:14 -
+			Starting of TC2_LoginTest...
+2025-11-06 12:00:51 INFO  TC2_PMITest:22 -
+			Clicked on Login Button
+2025-11-06 12:00:54 INFO  TC2_PMITest:29 -
+			Adding Employee details...
+2025-11-06 12:01:05 INFO  TC2_PMITest:47 -
+			Finishing of TC2_LoginTest...
